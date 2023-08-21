@@ -1,0 +1,16 @@
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\bin\Debug\net5.0\AsymmetricAssignmentCole.exe
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\bin\Debug\net5.0\AsymmetricAssignmentCole.deps.json
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\bin\Debug\net5.0\AsymmetricAssignmentCole.runtimeconfig.json
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\bin\Debug\net5.0\AsymmetricAssignmentCole.runtimeconfig.dev.json
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\bin\Debug\net5.0\AsymmetricAssignmentCole.dll
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\bin\Debug\net5.0\ref\AsymmetricAssignmentCole.dll
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\bin\Debug\net5.0\AsymmetricAssignmentCole.pdb
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\obj\Debug\net5.0\AsymmetricAssignmentCole.csproj.AssemblyReference.cache
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\obj\Debug\net5.0\AsymmetricAssignmentCole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\obj\Debug\net5.0\AsymmetricAssignmentCole.AssemblyInfoInputs.cache
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\obj\Debug\net5.0\AsymmetricAssignmentCole.AssemblyInfo.cs
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\obj\Debug\net5.0\AsymmetricAssignmentCole.csproj.CoreCompileInputs.cache
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\obj\Debug\net5.0\AsymmetricAssignmentCole.dll
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\obj\Debug\net5.0\ref\AsymmetricAssignmentCole.dll
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\obj\Debug\net5.0\AsymmetricAssignmentCole.pdb
+C:\Users\coled\source\repos\AsymmetricAssignmentCole\AsymmetricAssignmentCole\obj\Debug\net5.0\AsymmetricAssignmentCole.genruntimeconfig.cache

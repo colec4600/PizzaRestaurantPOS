@@ -1,0 +1,14 @@
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\bin\Debug\Cookbook.mdf
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\bin\Debug\Cookbook_log.ldf
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\bin\Debug\cole'scookbook.exe.config
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\bin\Debug\cole'scookbook.exe
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\bin\Debug\cole'scookbook.pdb
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\bin\Debug\cole'scookbook.xml
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\obj\Debug\cole'scookbook.vbprojAssemblyReference.cache
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\obj\Debug\cole_scookbook.Form1.resources
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\obj\Debug\cole_scookbook.Resources.resources
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\obj\Debug\cole'scookbook.vbproj.GenerateResource.cache
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\obj\Debug\cole'scookbook.vbproj.CoreCompileInputs.cache
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\obj\Debug\cole'scookbook.exe
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\obj\Debug\cole'scookbook.xml
+C:\Users\coled\source\repos\cole'scookbook\cole'scookbook\obj\Debug\cole'scookbook.pdb

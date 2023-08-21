@@ -1,0 +1,14 @@
+C:\Users\coled\source\repos\cookbook\cookbook\bin\Debug\Database1.mdf
+C:\Users\coled\source\repos\cookbook\cookbook\bin\Debug\Database1_log.ldf
+C:\Users\coled\source\repos\cookbook\cookbook\bin\Debug\Database2.mdf
+C:\Users\coled\source\repos\cookbook\cookbook\bin\Debug\Database2_log.ldf
+C:\Users\coled\source\repos\cookbook\cookbook\bin\Debug\cookbook.exe.config
+C:\Users\coled\source\repos\cookbook\cookbook\bin\Debug\cookbook.exe
+C:\Users\coled\source\repos\cookbook\cookbook\bin\Debug\cookbook.pdb
+C:\Users\coled\source\repos\cookbook\cookbook\obj\Debug\cookbook.csprojAssemblyReference.cache
+C:\Users\coled\source\repos\cookbook\cookbook\obj\Debug\cookbook.Form1.resources
+C:\Users\coled\source\repos\cookbook\cookbook\obj\Debug\cookbook.Properties.Resources.resources
+C:\Users\coled\source\repos\cookbook\cookbook\obj\Debug\cookbook.csproj.GenerateResource.cache
+C:\Users\coled\source\repos\cookbook\cookbook\obj\Debug\cookbook.csproj.CoreCompileInputs.cache
+C:\Users\coled\source\repos\cookbook\cookbook\obj\Debug\cookbook.exe
+C:\Users\coled\source\repos\cookbook\cookbook\obj\Debug\cookbook.pdb

@@ -1,0 +1,16 @@
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\bin\Debug\net5.0\HashExerciseAssignment.exe
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\bin\Debug\net5.0\HashExerciseAssignment.deps.json
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\bin\Debug\net5.0\HashExerciseAssignment.runtimeconfig.json
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\bin\Debug\net5.0\HashExerciseAssignment.runtimeconfig.dev.json
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\bin\Debug\net5.0\HashExerciseAssignment.dll
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\bin\Debug\net5.0\ref\HashExerciseAssignment.dll
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\bin\Debug\net5.0\HashExerciseAssignment.pdb
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\obj\Debug\net5.0\HashExerciseAssignment.csproj.AssemblyReference.cache
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\obj\Debug\net5.0\HashExerciseAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\obj\Debug\net5.0\HashExerciseAssignment.AssemblyInfoInputs.cache
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\obj\Debug\net5.0\HashExerciseAssignment.AssemblyInfo.cs
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\obj\Debug\net5.0\HashExerciseAssignment.csproj.CoreCompileInputs.cache
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\obj\Debug\net5.0\HashExerciseAssignment.dll
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\obj\Debug\net5.0\ref\HashExerciseAssignment.dll
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\obj\Debug\net5.0\HashExerciseAssignment.pdb
+C:\Users\coled\source\repos\HashExerciseAssignment\HashExerciseAssignment\obj\Debug\net5.0\HashExerciseAssignment.genruntimeconfig.cache

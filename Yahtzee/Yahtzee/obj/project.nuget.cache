@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mdHkaT7U04gkc9buMEILf+MJr8wuIKiwgeJdQQXkS0dY7KSH5U61ROuyl11ge6jgQ7/X/xmApUG5k8VyC4uyjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coled\\source\\repos\\Yahtzee\\Yahtzee\\Yahtzee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coled\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\coled\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

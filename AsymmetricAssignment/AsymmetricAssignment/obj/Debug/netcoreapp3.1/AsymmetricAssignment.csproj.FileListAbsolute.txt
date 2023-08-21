@@ -1,0 +1,14 @@
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\bin\Debug\netcoreapp3.1\AsymmetricAssignment.exe
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\bin\Debug\netcoreapp3.1\AsymmetricAssignment.deps.json
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\bin\Debug\netcoreapp3.1\AsymmetricAssignment.runtimeconfig.json
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\bin\Debug\netcoreapp3.1\AsymmetricAssignment.runtimeconfig.dev.json
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\bin\Debug\netcoreapp3.1\AsymmetricAssignment.dll
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\bin\Debug\netcoreapp3.1\AsymmetricAssignment.pdb
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\obj\Debug\netcoreapp3.1\AsymmetricAssignment.csproj.AssemblyReference.cache
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\obj\Debug\netcoreapp3.1\AsymmetricAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\obj\Debug\netcoreapp3.1\AsymmetricAssignment.AssemblyInfoInputs.cache
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\obj\Debug\netcoreapp3.1\AsymmetricAssignment.AssemblyInfo.cs
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\obj\Debug\netcoreapp3.1\AsymmetricAssignment.csproj.CoreCompileInputs.cache
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\obj\Debug\netcoreapp3.1\AsymmetricAssignment.dll
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\obj\Debug\netcoreapp3.1\AsymmetricAssignment.pdb
+C:\Users\coled\source\repos\AsymmetricAssignment\AsymmetricAssignment\obj\Debug\netcoreapp3.1\AsymmetricAssignment.genruntimeconfig.cache

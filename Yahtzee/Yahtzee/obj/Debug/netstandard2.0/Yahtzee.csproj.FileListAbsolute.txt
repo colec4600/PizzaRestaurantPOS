@@ -1,0 +1,8 @@
+C:\Users\coled\source\repos\Yahtzee\Yahtzee\bin\Debug\netstandard2.0\Yahtzee.deps.json
+C:\Users\coled\source\repos\Yahtzee\Yahtzee\bin\Debug\netstandard2.0\Yahtzee.dll
+C:\Users\coled\source\repos\Yahtzee\Yahtzee\bin\Debug\netstandard2.0\Yahtzee.pdb
+C:\Users\coled\source\repos\Yahtzee\Yahtzee\obj\Debug\netstandard2.0\Yahtzee.AssemblyInfoInputs.cache
+C:\Users\coled\source\repos\Yahtzee\Yahtzee\obj\Debug\netstandard2.0\Yahtzee.AssemblyInfo.cs
+C:\Users\coled\source\repos\Yahtzee\Yahtzee\obj\Debug\netstandard2.0\Yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\coled\source\repos\Yahtzee\Yahtzee\obj\Debug\netstandard2.0\Yahtzee.dll
+C:\Users\coled\source\repos\Yahtzee\Yahtzee\obj\Debug\netstandard2.0\Yahtzee.pdb

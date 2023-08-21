@@ -1,0 +1,11 @@
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\bin\Debug\TestProjectDatabaseLogin.exe.config
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\bin\Debug\TestProjectDatabaseLogin.exe
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\bin\Debug\TestProjectDatabaseLogin.pdb
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\obj\Debug\TestProjectDatabaseLogin.csproj.AssemblyReference.cache
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\obj\Debug\TestProjectDatabaseLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\obj\Debug\TestProjectDatabaseLogin.Properties.Resources.resources
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\obj\Debug\TestProjectDatabaseLogin.csproj.GenerateResource.cache
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\obj\Debug\TestProjectDatabaseLogin.csproj.CoreCompileInputs.cache
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\obj\Debug\TestProjectDatabaseLogin.exe
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\obj\Debug\TestProjectDatabaseLogin.pdb
+C:\Users\coled\source\repos\TestProjectDatabaseLogin\TestProjectDatabaseLogin\obj\Debug\TestProjectDatabaseLogin.Form1.resources
